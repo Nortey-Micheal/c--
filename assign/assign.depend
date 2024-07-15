@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711722520 source:/home/czar/Desktop/c++/assign/main.cpp
+	<iostream>
+	<string>
+

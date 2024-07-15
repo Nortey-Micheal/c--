@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720810255 source:/home/czar/Desktop/c++/try/main.cpp
+	<iostream>
+	<iomanip>
+	<ios>
+
